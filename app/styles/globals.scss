@@ -339,9 +339,9 @@ html {
 // home
 .homepage {
   position: relative;
-  top: 15vh;
+  top: 18vh;
   @media (max-width: 768px) {
-    top: 15vh;
+    top: 18vh;
   }
   .homepageContainer {
     background-color: #e8ffe4;
@@ -1458,7 +1458,7 @@ html {
 // products
 .productpage {
   position: relative;
-  top: 15vh;
+  top: 18vh;
   .productpageHero {
     height: 500px;
     background: linear-gradient(#7a3601a6, #7a3601a6),
@@ -1845,7 +1845,7 @@ html {
 // blogpage
 .blogpage {
   position: relative;
-  top: 15vh;
+  top: 18vh;
 
   .blogpageHero {
     height: 500px;
@@ -1969,7 +1969,7 @@ html {
 
 .petspage {
   position: relative;
-  top: 15vh;
+  top: 18vh;
 
   .petspageHeroSection {
     height: 500px;
@@ -1980,8 +1980,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 85%;
-    margin: 0 auto;
+   
     .petspageContent {
       margin: 0 auto;
       .title {
@@ -2386,7 +2385,7 @@ html {
 
 .shoppage {
   position: relative;
-  top: 15vh;
+  top: 18vh;
   .shoppageHero {
     height: 500px;
     background: linear-gradient(#7a3601a6, #7a3601a6),
@@ -2845,7 +2844,7 @@ html {
 
 .petDetails {
   position: relative;
-  top: 15vh;
+  top: 18vh;
   .petDetailsContainer {
     width: 85%;
     margin: 0 auto;
@@ -3034,7 +3033,7 @@ html {
 
 .notificationpage {
   position: relative;
-  top: 15vh;
+  top: 18vh;
   padding: 20px;
 
   .notificationpageContainer {
@@ -3331,7 +3330,7 @@ html {
 
 .detailsPage {
   position: relative;
-  top: 15vh;
+  top: 18vh;
   padding: 20px;
 
   .detailsPageContainer {
